@@ -16,6 +16,15 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/> -->
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  
+  <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+
 <br />
 
 
