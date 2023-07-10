@@ -16,6 +16,7 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/> -->
+
 <br />
 
 <br>
