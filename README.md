@@ -2,7 +2,7 @@
 
 **`Data Analyst at $${\color{darkblue}Point}$$$${\color{darkred}2}$$$${\color{darkblue}Point Global}$$`**
 
-Here at Point2Point Global, we're changing the way ship gets done. 🚀
+Here at $${\color{darkblue}Point}$$2Point Global, we're changing the way ship gets done. 🚀
 
 --- 
 
