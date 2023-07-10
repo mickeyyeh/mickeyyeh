@@ -2,7 +2,7 @@
 
 **`Data Analyst at Point2Point Global`**
 
-Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets done. 🚀 I help with all data-related projects, including data cleaning, dashboard creation, and other machine learning & data science tasks.
+Hi, I am Mickey, an aspiring data scientist at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 I support all data-related projects, including data cleaning, dashboard creation, and other machine learning & data science tasks. 
 
 
 ### 🧰 My Skills
@@ -115,7 +115,11 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 
 
+<!--
 
+Credit: This GitHub profile design is inspired by mrhrifat (https://github.com/mrhrifat/mrhrifat).
+
+-->
 
 
 
