@@ -29,7 +29,6 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 🏆 Bentley Business Bowl 25th - Champion <br>
 
 <br />
-<br />
 
 <!-- Badge Widget Link:
 https://home.aveek.io/GitHub-Profile-Badges/
