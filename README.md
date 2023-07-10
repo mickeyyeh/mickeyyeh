@@ -2,7 +2,7 @@
 
 **`Data Analyst at Point2Point Global`**
 
-Here at Point2Point Global, we're changing the way ship gets done. 🚀
+Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets done. 🚀
 
 --- 
 
