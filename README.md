@@ -1,4 +1,4 @@
-# Mickey Yeh 🌱
+# Mickey Yeh ⚡
 
 **`Data Analyst at Point2Point Global`**
 
