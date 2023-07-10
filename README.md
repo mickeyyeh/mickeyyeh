@@ -2,7 +2,7 @@
 
 **`Data Analyst at Point2Point Global`**
 
-Hi, I am Mickey, an aspiring data scientist at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 I support all data-related projects, including data cleaning, dashboard creation, and other machine learning & data science tasks. 
+Hi, I am Mickey, an aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 I support all data-related projects, including data cleaning, dashboard creation, and other machine learning & data science tasks. 
 
 
 ### 🧰 My Skills
