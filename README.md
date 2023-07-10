@@ -20,7 +20,6 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 <br />
 
 
-<img align="right" src="/metrics-right.svg" alt="Metrics" width="45%">
 
 
 #
