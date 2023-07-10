@@ -39,7 +39,7 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
     <a href='mailto:myeh@p2pg.com' target='_blank'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+        <img src='https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white'/>
     </a>
 </p>
 
