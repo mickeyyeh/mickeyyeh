@@ -20,8 +20,7 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+
   
   <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
 
