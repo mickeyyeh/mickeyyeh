@@ -2,7 +2,7 @@
 
 **`Data Analyst at Point2Point Global`**
 
-An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
+Aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
 
 
 ## 🧰 My Skills
