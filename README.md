@@ -63,15 +63,6 @@ https://home.aveek.io/GitHub-Profile-Badges/
     </a>
 </p>
 
-<p align='center'>
-    <a href='https://github.com/mrhrifat/holy-alquran'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&theme=transparent&hide=html' width='350'/>
-    </a>
-    <a href='https://github.com/mrhrifat/web-badge'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&theme=transparent'  width='350'/>
-    </a>
-</p>
-
 
 
 
