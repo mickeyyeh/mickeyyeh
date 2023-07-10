@@ -2,7 +2,7 @@
 
 **`Data Analyst at Point2Point Global`**
 
-Hi, I am Mickey, an aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
+An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
 
 
 ### 🧰 My Skills
