@@ -54,6 +54,8 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 ## FEATURED PROJECTS
 
+<!-- First Row: Will present 2 projects in one row -->
+
 <p align='center'>
     <a href='https://github.com/mickeyyeh/mickeyyeh'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent'  width='350'/>
@@ -63,7 +65,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
     </a>
 </p>
 
-
+<!-- Second Row: Paste the set of codes below -->
 
 
 
