@@ -51,14 +51,14 @@ https://home.aveek.io/GitHub-Profile-Badges/
 </p>
 
 
-<!-- For future Updates
+
 ## FEATURED PROJECTS
 
 <p align='center'>
-    <a href='https://github.com/mrhrifat/badge-genius'>
+    <a href='https://github.com/mickeyyeh/mickeyyeh'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=badge-genius&theme=transparent'  width='350'/>
     </a>
-    <a href='https://github.com/mrhrifat/al-quran'>
+    <a href='https://github.com/mickeyyeh/mickeyyeh'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=al-quran&theme=transparent&hide=html' width='350'/>
     </a>
 </p>
