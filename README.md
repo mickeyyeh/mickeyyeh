@@ -20,7 +20,6 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 <br />
 <br />
 <br />
-<br />
 
 
 ### 👨🏻‍🚀 Other Personal Achievements
