@@ -19,7 +19,7 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 <br />
 
 <div align="center">  
-  <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+  <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=TheTrustyPwo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
 
 <br />
 
