@@ -60,7 +60,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 </p>
 
 
-<br />
+
 
 
 ## FEATURED PROJECTS
