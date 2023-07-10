@@ -1,6 +1,6 @@
 # Mickey Yeh ⚡
 
-**`Data Analyst at Point2Point Global`**
+**`Data Analyst at [Point2Point Global](http://p2pg.com/)`**
 
 Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets done. 🚀
 
