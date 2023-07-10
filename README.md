@@ -6,7 +6,7 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 
 
 ### 🧰 My Skills
-
+#
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -22,8 +22,9 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 
 
 
-#
+
 ### 👨🏻‍🚀 Other Personal Achievements
+#
 🏆 NESS STATATHON 2023 - Finalist <br>
 🏆 Hackathon 2022 - Finalist <br>
 🏆 Bentley Business Bowl 25th - Champion <br>
