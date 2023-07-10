@@ -1,6 +1,6 @@
 # Mickey Yeh 🌱
 
-**`Data Analyst at <span style="color: darkblue">Point</span>$${\color{darkred}2}$$$${\color{darkblue}Point Global}$$`**
+**`Data Analyst at Point2Point Global`**
 
 Here at Point2Point Global, we're changing the way ship gets done. 🚀
 
