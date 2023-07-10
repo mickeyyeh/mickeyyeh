@@ -43,9 +43,9 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
     </a>
 </p>
 
-<!--
-## FEATURED PROJECTS
 
+## FEATURED PROJECTS
+<!-- For future Updates
 <p align='center'>
     <a href='https://github.com/mrhrifat/badge-genius'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=badge-genius&theme=transparent'  width='350'/>
@@ -78,6 +78,9 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 
 ##
 
+
+<!-- For future Updates
+
 <div align='center'>
 
 [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/mrhrifat) 
@@ -86,7 +89,7 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 
 </div>
 
-
+-->
 
 
 
