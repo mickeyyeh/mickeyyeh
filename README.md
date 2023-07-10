@@ -30,7 +30,7 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 
 
 
-<--! Badge Widget Link:
+<!-- Badge Widget Link:
 https://home.aveek.io/GitHub-Profile-Badges/
 -->
 
