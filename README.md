@@ -4,7 +4,7 @@
 
 Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets done. 🚀
 
-##
+#
 
 ### 🧰 Languages and Tools
 
@@ -44,8 +44,9 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 </p>
 
 
-## FEATURED PROJECTS
 <!-- For future Updates
+## FEATURED PROJECTS
+
 <p align='center'>
     <a href='https://github.com/mrhrifat/badge-genius'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=badge-genius&theme=transparent'  width='350'/>
