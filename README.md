@@ -19,6 +19,15 @@ An aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we cha
 
 <br />
 <br />
+<br />
+
+
+<div align="center">
+    <img src="https://github-readme-stats-ld1b.vercel.app/api/top-langs/?username=mickeyyeh&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br>
+</div>
+
+
+<br />
 
 
 ## 👨🏻‍🚀 Other Personal Achievements
@@ -93,8 +102,9 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 <!--
 
-Credit: This GitHub profile design is inspired by mrhrifat (https://github.com/mrhrifat/mrhrifat).
-
+Credit: This GitHub profile design is inspired by
+(1) mrhrifat (https://github.com/mrhrifat/mrhrifat)
+(2) TheTrustyPwo (https://github.com/TheTrustyPwo/TheTrustyPwo/tree/master)
 -->
 
 
