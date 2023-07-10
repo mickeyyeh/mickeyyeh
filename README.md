@@ -4,7 +4,7 @@
 
 Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets done. 🚀 I help with all data-related projects, including data cleaning, dashboard creation, and other machine learning & data science tasks.
 
-
+<br />
 
 ### 🧰 My Skills
 
@@ -18,6 +18,10 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
 <!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/> -->
 <br />
+
+
+<img align="right" src="/metrics-right.svg" alt="Metrics" width="45%">
+
 
 #
 ### 👨🏻‍🚀 Other Personal Achievements
