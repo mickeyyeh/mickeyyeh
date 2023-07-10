@@ -56,10 +56,10 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 <p align='center'>
     <a href='https://github.com/mickeyyeh/mickeyyeh'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=badge-genius&theme=transparent'  width='350'/>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent'  width='350'/>
     </a>
     <a href='https://github.com/mickeyyeh/mickeyyeh'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=al-quran&theme=transparent&hide=html' width='350'/>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent&hide=html' width='350'/>
     </a>
 </p>
 
