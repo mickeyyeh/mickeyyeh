@@ -6,7 +6,7 @@ Here at [Point2Point Global](http://p2pg.com/), we're changing the way ship gets
 
 
 
-### 🧰 Languages and Tools
+### 🧰 My Skills
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
