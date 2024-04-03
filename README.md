@@ -71,8 +71,8 @@ https://home.aveek.io/GitHub-Profile-Badges/
     <a href='https://github.com/mickeyyeh/mickeyyeh'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent'  width='350'/>
     </a>
-    <a href='https://github.com/mickeyyeh/p2p-app'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=p2p-app&theme=transparent&hide=html' width='350'/>
+    <a href='https://github.com/mickeyyeh/p2p_apps'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=p2p_apps&theme=transparent&hide=html' width='350'/>
     </a>
 </p>
 
