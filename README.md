@@ -46,7 +46,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
     <a href='https://github.com/mickeyyeh?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mickeyyeh'/>
     </a>
-    <img src='https://vbr.wocr.tk/badge?page_id=mickeyyeh&style=for-the-badge&logo=Github&color=16a085'>
+    <img src='https://vbr.nathanchung.dev/badge?page_id=mickeyyeh&style=for-the-badge&logo=Github&color=16a085'>
     <a href='https://github.com/mickeyyeh?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mickeyyeh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
         <br>
