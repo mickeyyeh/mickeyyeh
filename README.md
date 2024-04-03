@@ -78,7 +78,14 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 <!-- Second Row: Paste the set of codes below -->
 
-
+<p align='center'>
+    <a href='https://github.com/mickeyyeh/p2p-app'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent'  width='350'/>
+    </a>
+    <a href='https://github.com/mickeyyeh/mickeyyeh'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeyyeh&repo=mickeyyeh&theme=transparent&hide=html' width='350'/>
+    </a>
+</p>
 
 
 ## CODING STATS
