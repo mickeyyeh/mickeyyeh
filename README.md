@@ -3,13 +3,6 @@
 **`Data Analyst at Point2Point Global`**
 
 Aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
-
-💼 Mickey possesses significant research expertise, having served as a Data Science Research Assistant in academia and as a Research Assistant at the Bentley Academic Technology Center, where he actively contributed to various research initiatives.
-
-💼 He also plays a crucial role in technology consulting, guiding businesses in their transition to the realms of technology, big data, and AI, with a focus on achieving their next five steps to success.
-
-🏆Mickey's impressive achievements encompass being a Finalist in the 2023 NESS Statathon, excelling in the 2022 Hackathon, and securing the title of 25th Bentley Business Bowl case analysis champion.
-
 His diverse experiences allowed him to bring unique insights into data analysis and cutting-edge technologies.
 
 ## 🧰 My Skills
