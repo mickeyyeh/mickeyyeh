@@ -1,8 +1,8 @@
 # Mickey Yeh ⚡
 
-**`Data Analyst at Point2Point Global`**
+**`Data Analyst`**
 
-Aspiring data analyst at [Point2Point Global](http://p2pg.com/), where we change the way shipping gets done. 🚀 
+Aspiring **DATA SCIENTIST**. 🚀 
 
 
 ## 🧰 My Skills
