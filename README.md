@@ -1,8 +1,15 @@
 # Mickey Yeh ⚡
 
-**`Data Analyst`**
+**`Data Scientist`**
 
 Aspiring **DATA SCIENTIST**. 🚀 
+
+
+## 👨🏻‍🚀 Personal Achievements
+
+🏆 NESS STATATHON 2023 - Finalist <br>
+🏆 Hackathon 2022 - Finalist <br>
+🏆 Bentley Business Bowl 25th - Champion <br>
 
 
 ## 🧰 My Skills
@@ -28,13 +35,6 @@ Aspiring **DATA SCIENTIST**. 🚀
 
 
 
-
-
-## 👨🏻‍🚀 Other Personal Achievements
-
-🏆 NESS STATATHON 2023 - Finalist <br>
-🏆 Hackathon 2022 - Finalist <br>
-🏆 Bentley Business Bowl 25th - Champion <br>
 
 <br />
 
