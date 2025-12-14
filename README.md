@@ -100,7 +100,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 </p> -->
 
 <p align='center'>
-  <img src='https://your-stats-instance.vercel.app/api?username=mickeyyeh&show_icons=true&theme=transparent' width='380' />
+  <!-- <img src='https://your-stats-instance.vercel.app/api?username=mickeyyeh&show_icons=true&theme=transparent' width='380' /> -->
   <img src='https://streak-stats.demolab.com?user=mickeyyeh&theme=transparent' width='400' />
 </p>
 
